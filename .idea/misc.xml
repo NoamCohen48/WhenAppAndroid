@@ -3,8 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Personals/projects/WhenAppAndroid/app/src/main/res/layout/activity_main.xml" value="0.35260416666666666" />
-        <entry key="..\:/Personals/projects/WhenAppAndroid/app/src/main/res/layout/fragment_add_contact.xml" value="0.358695652173913" />
+        <entry key="..\:/Study/Android Studio/Projects/WhenAppAndroid/app/src/main/res/layout/activity_chat_screen.xml" value="0.3625" />
+        <entry key="..\:/Study/Android Studio/Projects/WhenAppAndroid/app/src/main/res/layout/content_chat_screen.xml" value="0.3625" />
+        <entry key="..\:/Study/Android Studio/Projects/WhenAppAndroid/app/src/main/res/layout/fragment_chat_screen__contact.xml" value="0.20923913043478262" />
+        <entry key="..\:/Study/Android Studio/Projects/WhenAppAndroid/app/src/main/res/mipmap-anydpi-v26/ic_Logo.xml" value="0.333" />
       </map>
     </option>
   </component>
